@@ -21,7 +21,7 @@
     <ClCompile Include="scr\multimedia.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="crud.c">
+    <ClCompile Include="scr\crud.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

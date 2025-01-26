@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="crud.c" />
+    <ClCompile Include="scr\crud.c" />
     <ClCompile Include="scr\main.c" />
     <ClCompile Include="scr\multimedia.c" />
   </ItemGroup>
